@@ -20,7 +20,7 @@ The [slides](https://beta.deckdeckgo.io/daviddalbusco/stencil-is-awesome/) of th
 
 ```
 git clone https://github.com/peterpeterparker/demo-stencil-dogs
-cd deckdeckgo/webcomponents/demo
+cd demo-stencil-dogs
 npm install
 npm run start
 ```
