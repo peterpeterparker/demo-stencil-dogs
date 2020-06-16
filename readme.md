@@ -16,6 +16,15 @@ Dogs used for this demo purpose provided by the [Dogs API](https://dog.ceo).
 
 The [slides](https://beta.deckdeckgo.io/daviddalbusco/stencil-is-awesome/) of the presentation which introduced the small live coding session of this component's development.
 
+## Give It A Try
+
+```
+git clone https://github.com/peterpeterparker/demo-stencil-dogs
+cd deckdeckgo/webcomponents/demo
+npm install
+npm run start
+```
+
 ## License
 
 MIT © [David Dal Busco](mailto:david.dalbusco@outlook.com)
